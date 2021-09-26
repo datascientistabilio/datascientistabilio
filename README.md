@@ -1,11 +1,15 @@
-## Oiii! Eu sou o Abilio Fernandes da Silva
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/69885511?v=4?width=676&height=676">
+## Oiii! Eu sou o Abilio Fernandes da Silva!!! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<p>Atualmente estou no 5ª semestre da ciência da computação na universidade Estácio de Sá.</p>
+<p>Eu aspiro ser um cientista de dados e para isso venho estudando e reforçando o meu conhecimento com cursos extras curriculares.</p>
+
+<img align="right" style="border-radius:50px;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <div align="center">
-  <a href="https://github.com/datascientistabilio">
+	<a href="https://github.com/datascientistabilio"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datascientistabilio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datascientistabilio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+<p>Abaixo você verá um pouco do que eu já sei e que a cada dia procuro melhorar.</p>
   <h2>Aonde eu existo?</h2>
 <div style="display: inline_block">  
  	
@@ -92,6 +96,12 @@
   <img src="https://img.shields.io/badge/acer-laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white" target="_blank">
   </div>
   
+	  
+	  ```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
 <div> 
 
  
