@@ -1,5 +1,5 @@
 ## Oiii! Eu sou o Abilio Fernandes da Silva!!! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p>Atualmente estou no 5ª semestre da ciência da computação na universidade Estácio de Sá.</p>
+<p>Atualmente estou no 6ª semestre da ciência da computação na universidade Estácio de Sá.</p>
 <p>Eu aspiro ser um cientista de dados e para isso venho estudando e reforçando o meu conhecimento com cursos extras curriculares.</p>
 
 <img align="right" style="border-radius:50px;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
